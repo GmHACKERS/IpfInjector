@@ -1,0 +1,1 @@
+IpfInjector -f Sample\hotkey.xml -i Sample\xml.ipf -p hotkey.xml -v
